@@ -1,0 +1,2 @@
+Photoshop tips:
+1. When making an icon smaller, convert icon and background into a smart object then apply sharpen filter. Maybe pixellate although in my experience it looks shit.
