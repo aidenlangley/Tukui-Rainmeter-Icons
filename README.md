@@ -9,7 +9,7 @@ How-to:
 
 3. Place your template icon, or whatever icon you wish to use, onto the base (File > Place...)
 	
-	- I used metro for the majority of the icons, some of the custom ones I used images from the resources folder.
+	// I used metro for the majority of the icons, some of the custom ones I used images from the resources folder.
 
 4. Cut the icon out (pen tool, magic wand, your choice)
 
