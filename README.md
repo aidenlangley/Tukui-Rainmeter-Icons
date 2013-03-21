@@ -8,8 +8,6 @@ How-to:
 2. Open the style .psd (resources/style.psd)
 
 3. Place your template icon, or whatever icon you wish to use, onto the base (File > Place...)
-	
-	// I used metro for the majority of the icons, some of the custom ones I used images from the resources folder.
 
 4. Cut the icon out (pen tool, magic wand, your choice)
 
@@ -24,6 +22,8 @@ How-to:
 9. File > Save for web and devices...
 
 10. Voila!
+
+	- I used metro for the majority of the icons, some of the custom ones I used images from the resources folder.
 
 Icon's for tukui rainmeter theme; a blend of MetroUI style and Token icons into a tukui themed icon package. Some I have had to create using other resources which are included in the resources folder. If you have requests don't hesitate to let me know.
 
